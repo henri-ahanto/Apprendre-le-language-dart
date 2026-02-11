@@ -6,7 +6,7 @@
 
 
 ## **Somaires**
-### 1. **Installation**
+### 1. **[Installation](1.%20Installation/README.md)**
 ### 2. **Les commentaires**
 
  <ul style="list-style-type: lower-alpha; border-left: 5px solid rgba(255, 255, 255, 0.2); display: block; background-color: rgba(255, 255, 255, 0.06); border-radius: 2px 1px;">
