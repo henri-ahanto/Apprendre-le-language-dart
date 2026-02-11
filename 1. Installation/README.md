@@ -1,4 +1,6 @@
-# Installation et Configuration du language dart
+![Installation et Configuration du language dart](../assets/Affiche.png)
+Installation et Configuration du language dart
+---
 
 J'aborderai dans cette section du cours l'installation avec le dart SDK mais aussi les différentes plateforme de compilation en ligne et pour ce qui souhaite continuer plus-tard avec flutter l'installation avec flutter.
 
